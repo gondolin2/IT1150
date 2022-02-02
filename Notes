@@ -1,0 +1,7 @@
+CSS: 
+  Inline: Same line of code as HTML
+  Internal: CSS in head of HTML file
+  External: In an external CSS file
+  
+  P tag: Conflicting info, priority = inline > internal > external
+  External is almost always preferred.  
