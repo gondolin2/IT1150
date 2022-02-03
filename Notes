@@ -3,5 +3,5 @@ CSS:
   Internal: CSS in head of HTML file
   External: In an external CSS file
   
-  P tag: Conflicting info, priority = inline > internal > external
+  P tag: Conflicting info, the code prioritizes inline > internal > external
   External is almost always preferred.  
