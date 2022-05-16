@@ -35,22 +35,24 @@
   }
 
 body {
-    background-color: rgb(202, 230, 216);
-    width:78%;
+    background-color: rgb(225, 242, 234);
+    width:90%;
     margin-left:auto;
     margin-right:auto;
     font-family: Helvetica, Verdana, sans-serif;
 }
 
 .body-text {
-    background-color: rgb(156, 181, 207);
+    background-color: rgb(242, 238, 218);
+    border:1.5px solid rgb(234, 230, 210);
     border-radius: 5px;
     font-size: 90%;
-    color:whitesmoke;
+    color:rgb(59, 59, 59);
 }
 
 header {
     background-color: rgb(184, 176, 211);
+    border: 1.5px solid rgb(178, 170, 203);
     border-radius: 5px;
 }
 
@@ -63,6 +65,8 @@ header h1 {
 nav ul li {
     background-color: rgb(169, 188, 218);
     border-radius:5px;
+    border: 1.5px solid rgb(164, 182, 211);
+    align-items: center;
     text-align: center;
     list-style: none;
     margin-top:5.5px;
@@ -91,6 +95,7 @@ aside img {
 
 aside p {
     background-color: rgb(207, 175, 210);
+    border:1.5px solid rgb(198, 167, 201);
     padding:5px;
     border-radius: 2px;
     text-align: center;
@@ -108,18 +113,18 @@ aside a:hover {
 }
 
 .body-text {
-    
     padding:5px;
     margin-top:7px;
     margin-bottom:7px;
 }
 
 footer {
-    background-color: rgb(255, 246, 205);
+    background-color: rgb(184, 176, 211);
+    border: 1.5px solid rgb(178, 170, 203);
     border-radius: 5px;
 }
 
 footer h3 {
-    color:rgb(59, 59, 59);
+    color:whitesmoke;
     text-align: center;
 }
